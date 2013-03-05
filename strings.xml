@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS176BHW3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">243055485831040</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="Facebooklogin">Login</string>
+    <string name="Facebooklogout">Logout</string>
+    <string name="Twitterlogin">Login</string>
+    <string name="Twitterlogout">Logout</string>
+
+</resources>
